@@ -1,31 +1,28 @@
-Amigo Secreto - Sorteo Aleatorio
-
+# Amigo Secreto - Alura ONE
 Este proyecto es parte del desafío de Alura ONE para el Grupo 8. Su objetivo principal es fortalecer las habilidades en lógica de programación y manipulación del DOM mediante una aplicación web que permite a los usuarios agregar nombres a una lista y luego seleccionar un amigo secreto de manera aleatoria.
 
-Características
+## Características
 
-Permite agregar nombres a una lista.
+- Permite agregar nombres a una lista.
+- Previene el ingreso de nombres vacíos.
+- Muestra los nombres agregados en pantalla.
+- Realiza un sorteo aleatorio entre los nombres ingresados.
 
-Previene el ingreso de nombres vacíos.
 
-Muestra los nombres agregados en pantalla.
-
-Realiza un sorteo aleatorio entre los nombres ingresados.
-
-Instalación
+## Instalación 
 
 No se requiere instalación de dependencias adicionales. Solo necesitas un navegador web para ejecutar el código.
+```bash
+  git clone https://github.com/BuBaBug/Amigo-Secreto---AluraONE.git
+```
+- Descarga o clona este repositorio.
 
-Pasos para utilizar el proyecto:
+- Abre el archivo index.html en tu navegador.
 
-Descarga o clona este repositorio.
+- Ingresa los nombres en el campo de texto y presiona "Añadir".
 
-Abre el archivo index.html en tu navegador.
+- Una vez agregados los nombres, presiona "Sortear Amigo" para seleccionar un amigo secreto al azar.
 
-Ingresa los nombres en el campo de texto y presiona "Agregar Amigo".
+## tecnología
 
-Una vez agregados los nombres, presiona "Sortear Amigo" para seleccionar un amigo secreto al azar.
-
-Dependencias
-
-Este proyecto no utiliza librerías externas, solo JavaScript nativo y manipulación del DOM.
+**Client:** Html, CSS, JavaScript.
